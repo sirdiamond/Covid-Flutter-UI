@@ -1,4 +1,4 @@
-<span>&#x1f1e7;&#x1f1f7;</span>
+<span style="font-size: 21px;">&#x1f1e7;&#x1f1f7;</span>
 # FLUTTER Covid UI 
 - I've started study Flutter and this is my second UI developed using the framework.
 - I've used the UI from: [https://github.com/abuanwar072/Food-App]
