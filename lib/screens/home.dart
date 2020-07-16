@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:covid/theme.dart';
 import 'package:covid/screens/shared/header.dart';
+import 'package:covid/screens/about.dart';
+
 
 class HomeScreen extends StatelessWidget {
   @override
@@ -125,11 +127,18 @@ class Section3 extends StatelessWidget {
                           .copyWith(color: kTextLightColor))
                 ]),
           ),
-          Text('See details',
-              style: Theme.of(context)
-                  .textTheme
-                  .subtitle2
-                  .copyWith(color: kSecondaryColor)),
+          GestureDetector(
+            onTap: () {
+              Navigator.of(context).push(MaterialPageRoute(builder: (context) {
+                return AboutScreen();
+              }));
+            },
+            child: Text('See details',
+                style: Theme.of(context)
+                    .textTheme
+                    .subtitle2
+                    .copyWith(color: kSecondaryColor)),
+          ),
         ],
       ),
     );
