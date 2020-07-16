@@ -1,16 +1,14 @@
-# covid
+# FLUTTER Covid UI 
 
-A new Flutter project.
+:br: 
+- I've started study Flutter and this is my second UI developed using the framework.
+- I've used the UI from: [https://github.com/abuanwar072/Food-App]
+- Started to use more Theme.of as a way to avoid the style boilerplate
+- This UI was good to train SingleChildScrollView and ListView
 
-## Getting Started
+# Demo
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](food.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
