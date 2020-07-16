@@ -1,6 +1,6 @@
 
 # FLUTTER Covid UI 
-- I'm improving my Flutter skills and this is my 3rd project.
+- I'm improving my Flutter skills and this is my 3rd project using the framework.
 - I've used the UI from: [https://www.uplabs.com/posts/coronavirus-information-concept]
 - This project was good to improve DrobDownButton/LayoutBuilder/ClipPath widgets skills
 
